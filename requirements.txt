@@ -1,6 +1,0 @@
-tensorflow==2.17.0
-streamlit
-pandas
-soundfile
-numpy
-scipy
